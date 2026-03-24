@@ -1,0 +1,267 @@
+Design a modern, futuristic developer portfolio website UI for a Software Engineer and Android Developer named **Praveen Ray**.
+
+The design should follow a **dark AI-tech theme similar to the reference screenshots**, with glowing gradients, particle effects, and smooth modern typography.
+
+Use a **premium SaaS style layout similar to Antimatter AI website**.
+
+Design a **fully responsive landing page** with the following sections.
+
+---
+
+## 🎨 Global Design Style
+
+Theme:
+• Dark futuristic AI theme
+• Colors: Deep black (#0B0B0F), dark blue gradients (#1B1F3B → #5C6BFF)
+• Accent glow: Purple / blue neon highlights
+• Subtle particle or constellation background elements
+
+Typography:
+• Headings: Modern bold sans-serif (Satoshi / Inter / Space Grotesk)
+• Body: Clean sans-serif (Inter)
+
+Design Feel:
+• AI startup aesthetic
+• Premium SaaS landing page
+• Smooth gradients
+• Glassmorphism cards
+• Soft glowing shadows
+• Minimal but futuristic
+
+Animations (conceptual):
+• Particle animation hero background
+• Hover glow effects on cards
+• Smooth transitions
+
+---
+
+# 1️⃣ HERO SECTION
+
+Design a hero section similar to the **Antimatter AI hero layout**.
+
+Layout:
+Left side:
+Headline:
+**Building Digital Solutions That Matter**
+
+Subtext:
+"Android Developer crafting intelligent mobile experiences, adaptive interfaces, and scalable digital products."
+
+CTA Buttons:
+• View Projects
+• Contact Me
+
+Right side:
+A **large glowing particle sphere / AI neural network visualization**.
+
+Below hero:
+Statistics row:
+
+• Projects Built
+• Technologies Used
+• Internship Experience
+
+Example:
+
+50+ Components Designed
+10+ Technologies
+1 Industry Internship
+
+---
+
+# 2️⃣ ABOUT ME SECTION
+
+Title:
+About Me
+
+Description:
+
+"I’m a passionate Android developer focused on building scalable, user-centered mobile experiences using modern technologies like Kotlin, Jetpack Compose, and Firebase. I enjoy designing intuitive interfaces and developing intelligent applications that solve real-world problems."
+
+Add:
+• small avatar placeholder
+• timeline style highlights
+
+---
+
+# 3️⃣ SKILLS SECTION (Inspired by Services UI)
+
+Create **card-based skills UI like the services section in the screenshot.**
+
+Each card should have:
+
+• title
+• short description
+• tech icons
+
+Skill Categories:
+
+### Mobile Development
+
+Kotlin
+Jetpack Compose
+Android SDK
+Material Design 3
+Coroutines
+
+### Frontend Development
+
+HTML
+CSS
+JavaScript
+React
+
+### Backend & APIs
+
+REST APIs
+Node.js
+Firebase
+
+### Tools & Platforms
+
+Android Studio
+Git
+GitHub
+Figma
+Visual Studio Code
+
+### Computer Science Fundamentals
+
+DBMS
+Operating Systems
+OOPS
+Data Structures & Algorithms
+
+---
+
+# 4️⃣ PROJECTS SECTION (Case Studies Style)
+
+Design a **case studies list like the screenshot**.
+
+Left side:
+Numbered project list.
+
+Right side:
+Project preview mockup.
+
+Projects:
+
+### 01 Aivena – Android Healthcare Companion App
+
+Tags:
+Android Development
+Jetpack Compose
+Firebase
+
+Description:
+A user-first healthcare onboarding app designed to simplify complex medical flows using cognitive load reduction and motion-based UI interactions.
+
+---
+
+### 02 AffectAI – Emotion Adaptive Mobile Interface
+
+Tags:
+Android
+AI Interface
+Behavioral Analytics
+
+Description:
+An emotion-aware Android interface engine that detects user behavior patterns and dynamically adjusts UI notifications and interactions.
+
+---
+
+### 03 Emotion-Responsive UI System
+
+Tags:
+Research Project
+AI UX
+
+Description:
+A system that analyzes emotional signals and adapts digital interfaces to reduce stress and improve engagement.
+
+---
+
+# 5️⃣ EXPERIENCE SECTION
+
+Timeline UI.
+
+Wyreflow Technologies — Product Development Intern
+May 2025 – July 2025
+
+• Designed responsive UI components in Figma
+• Built scalable UI patterns across screens
+• Created user-centered workflows and wireframes
+• Collaborated with developers to improve UI implementation
+
+---
+
+# 6️⃣ CERTIFICATIONS SECTION
+
+Display as **modern glowing cards**
+
+• Oracle Cloud Infrastructure 2025 AI Foundations Associate
+• JPMorgan Chase Software Engineering Job Simulation
+• IBM AI Leadership Skills
+• AI For Everyone – DeepLearning.AI
+
+---
+
+# 7️⃣ CONTACT SECTION
+
+Title:
+Let's Build Something Amazing
+
+Fields:
+• Name
+• Email
+• Message
+
+CTA:
+Send Message
+
+Also display:
+
+Email: [praveenray947@gmail.com](mailto:praveenray947@gmail.com)
+Phone: +91-9216804047
+LinkedIn: linkedin.com/in/praveen-ray
+GitHub: github.com/ray-praveen
+
+---
+
+# 8️⃣ FOOTER
+
+Minimal futuristic footer
+
+© 2026 Praveen Ray
+Built with passion for innovation.
+
+---
+
+# UI REQUIREMENTS
+
+• Desktop first design
+• Responsive for tablet and mobile
+• Use grid layout
+• Smooth spacing and hierarchy
+• Rounded glass cards
+• Subtle glow effects
+
+---
+
+# OUTPUT
+
+Generate a **complete portfolio landing page UI design in Figma with components and auto-layout.**
+
+Include:
+
+• Navbar
+• Hero section
+• About
+• Skills
+• Projects
+• Experience
+• Certifications
+• Contact
+• Footer
+
+Use a **modern AI startup design aesthetic similar to Antimatter AI.**
